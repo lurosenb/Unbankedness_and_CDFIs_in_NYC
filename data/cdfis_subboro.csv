@@ -1,0 +1,58 @@
+,Organization Name,Financial Institution Type,Native CDFI (Y/N),City,State,Zipcode,Address1,Organization Website,address_for_url,tract,Sub Boro Name,Tract
+0,AAFE Community Development Fund,Loan Fund,N,New York,NY,10002--530,"2 Allen Street, 7th Floor",http://aafecdf.org/,"2 Allen Street, 7th Floor, New York, NY, 10002--530","('001800', 'Manhattan')",Lower East Side / Chinatown,1800
+1,"Accompany Capital, Inc.",Loan Fund,N,New York,NY,10271--309,"120 Broadway, Suite 230",www.nybcna.org,"120 Broadway, Suite 230, New York, NY, 10271--309","('000700', 'Manhattan')",Greenwich Village / Financial District,700
+2,Ascendus Inc.,Loan Fund,N,New York,NY,10038--481,80 Maiden Lane  Suite 903,us.accion.org/east,"80 Maiden Lane  Suite 903, New York, NY, 10038--481","('000700', 'Manhattan')",Greenwich Village / Financial District,700
+3,BOC Capital Corp.,Loan Fund,N,Brooklyn,NY,11217--160,"85 South Oxford, 2nd floor",www.boccapital.org,"85 South Oxford, 2nd floor, Brooklyn, NY, 11217--160","('018100', 'Brooklyn')",Brooklyn Heights / Fort Greene,18100
+4,"Brooklyn Alliance Capital, Inc.",Loan Fund,N,Brooklyn,NY,11201--373,"335 Adams Street, Suite 2700",www.ibrooklyn.com,"335 Adams Street, Suite 2700, Brooklyn, NY, 11201--373","('001100', 'Brooklyn')",Brooklyn Heights / Fort Greene,1100
+5,Brooklyn Cooperative Federal Credit Union,Credit Union,N,Brooklyn,NY,11237--512,1474 Myrtle Avenue,www.brooklyn.coop,"1474 Myrtle Avenue, Brooklyn, NY, 11237--512","('043300', 'Brooklyn')",Bushwick,43300
+6,Business Resource and Investment Service Center Inc.,Loan Fund,N,New York,NY,10027--451,"55 West 125th St, 11th Floor",Non given,"55 West 125th St, 11th Floor, New York, NY, 10027--451","('020000', 'Manhattan')",Central Harlem,20000
+7,CAMBA Economic Development Corporation,Loan Fund,N,Brooklyn,NY,11226--267,1720 Church Avenue,www.camba.org,"1720 Church Avenue, Brooklyn, NY, 11226--267","('051200', 'Brooklyn')",Flatbush,51200
+8,Carver Federal Savings Bank,Bank or Thrift,N,New York,NY,10035,1825 Park Avenue,http://carverbank.com,"1825 Park Avenue, New York, NY, 10035","('019600', 'Manhattan')",East Harlem,19600
+9,CheckSpring Community Corporation,Bank Holding Company,N,Bronx,NY,10452--820,69 E 167th Street,http://www.springbankny.com,"69 E 167th Street, Bronx, NY, 10452--820","('019900', 'Bronx')",Highbridge / S. Concourse,19900
+10,"Community Development Trust, LP, The",Loan Fund,N,New York,NY,10018--770,1350 Broadway  Suite 700,www.cdt.biz,"1350 Broadway  Suite 700, New York, NY, 10018--770","('010900', 'Manhattan')",Chelsea / Clinton / Midtown,10900
+11,"Community Development Venture Capital Alliance, The",Venture Capital,N,New York,NY,10115--005,"475 Riverside Dr., Suite 1264",www.cdvca.org,"475 Riverside Dr., Suite 1264, New York, NY, 10115--005","('020500', 'Manhattan')",Morningside Heights / Hamilton Heights,20500
+12,Community Partnership Development Corporation,Loan Fund,N,New York,NY,10001,253 West 35th Street  3rd Floor,www.housingpartnership.com,"253 West 35th Street  3rd Floor, New York, NY, 10001","('010900', 'Manhattan')",Chelsea / Clinton / Midtown,10900
+13,Community Preservation Corporation,Loan Fund,N,New York,NY,10017,"220 E 42nd Street, 16th Floor",www.communityp.com,"220 E 42nd Street, 16th Floor, New York, NY, 10017","('008800', 'Manhattan')",Stuyvesant Town / Turtle Bay,8800
+14,Concord Federal Credit Union,Credit Union,N,Brooklyn,NY,11216,833 Gardner C. Taylor Blvd.,https://concordfcu.org/,"833 Gardner C. Taylor Blvd., Brooklyn, NY, 11216","('-1', '-1')",Bedford Stuyvesant,-1
+15,Corporation for Supportive Housing,Loan Fund,N,New York,NY,10006--270,"61 Broadway, 23rd Floor",www.csh.org,"61 Broadway, 23rd Floor, New York, NY, 10006--270","('001300', 'Manhattan')",Greenwich Village / Financial District,1300
+16,"Credit, Inc.",Loan Fund,N,Bronx,NY,10455--390,555 Bergen Avenue,Non given,"555 Bergen Avenue, Bronx, NY, 10455--390","('007100', 'Bronx')",Mott Haven / Hunts Point,7100
+17,Entertainment Industries FCU,Credit Union,N,New York,NY,10022--321,550 Madison Ave.,http://www.eifcu.org,"550 Madison Ave., New York, NY, 10022--321","('010200', 'Manhattan')",Chelsea / Clinton / Midtown,10200
+18,Fidelis Federal Credit Union,Credit Union,N,NEW YORK,NY,10031--181,448 West 152nd Street,Not Available,"448 West 152nd Street, NEW YORK, NY, 10031--181","('023501', 'Manhattan')",Morningside Heights / Hamilton Heights,23501
+19,"Finest Federal Credit Union, The",Credit Union,N,New York,NY,10038,"59 Maiden Lane
+Lobby",thefinestfcu.org,"59 Maiden Lane
+Lobby, New York, NY, 10038","('001502', 'Manhattan')",Greenwich Village / Financial District,1502
+20,"Grameen America, Inc.",Loan Fund,N,New York,NY,10001--415,150 West 30th Street  8th Floor,http://www.grameenamerica.org,"150 West 30th Street  8th Floor, New York, NY, 10001--415","('009500', 'Manhattan')",Chelsea / Clinton / Midtown,9500
+21,"Habitat for Humanity NYC Fund, Inc.",Loan Fund,N,New York,NY,10038--310,111 John Street 23rd Floor,Non given,"111 John Street 23rd Floor, New York, NY, 10038--310","('001502', 'Manhattan')",Greenwich Village / Financial District,1502
+22,"Harlem Entrepreneurial Fund, LLC",Loan Fund,N,New York,NY,10027--484,361 West 125th Street,http://harlemcommonwealth.org,"361 West 125th Street, New York, NY, 10027--484","('020901', 'Manhattan')",Morningside Heights / Hamilton Heights,20901
+23,"IRC's Center For Economic Opportunity, Inc. (CEO)",Loan Fund,N,New York,NY,10168--128,"c/o Jennifer Sime 
+122 E. 42nd Street, 12th Floor",http://irc-ceo.org/,"c/o Jennifer Sime 
+122 E. 42nd Street, 12th Floor, New York, NY, 10168--128","('-1', '-1')",Stuyvesant Town / Turtle Bay,-1
+24,Local Initiatives Support Corporation,Loan Fund,N,New York,NY,10005,"28 Liberty Street
+Floor 34",www.lisc.org,"28 Liberty Street
+Floor 34, New York, NY, 10005","('000700', 'Manhattan')",Greenwich Village / Financial District,700
+25,Lower East Side Peoples Federal Credit Union,Credit Union,N,New York,NY,10009--744,37 Avenue B,www.lespfcu.org,"37 Avenue B, New York, NY, 10009--744","('002601', 'Manhattan')",Lower East Side / Chinatown,2601
+26,National Federation of Community Development Credit Unions,Loan Fund,N,New York,NY,10006--306,39 Broadway  Suite 2140,www.cdcu.coop,"39 Broadway  Suite 2140, New York, NY, 10006--306","('001300', 'Manhattan')",Greenwich Village / Financial District,1300
+27,"National Minority Supplier Development Council Business Consortium Fund, Inc.",Loan Fund,N,New York,NY,10022,"575 Lexington Avenue, 4th Floor",http://www.bcfcapital.com,"575 Lexington Avenue, 4th Floor, New York, NY, 10022","('010000', 'Manhattan')",Stuyvesant Town / Turtle Bay,10000
+28,"Neighborhood Housing Services of New York City, Inc.",Loan Fund,N,New York,NY,10018--649,"307 West 36th Street, 12th floor",www.nhsnyc.org,"307 West 36th Street, 12th floor, New York, NY, 10018--649","('011100', 'Manhattan')",Chelsea / Clinton / Midtown,11100
+29,Neighborhood Trust Federal Credit Union,Credit Union,N,New York,NY,10032--380,1112 St Nicholas Ave,www.neighborhoodtrustfcu.org,"1112 St Nicholas Ave, New York, NY, 10032--380","('025100', 'Manhattan')",Washington Heights / Inwood,25100
+30,New Covenant Dominion Federal Credit Union,Credit Union,N,Bronx,NY,10456,1185 Boston Road,www.newcovenantcreditunion.org,"1185 Boston Road, Bronx, NY, 10456","('018500', 'Bronx')",Morrisania / East Tremont,18500
+31,New York University FCU,Credit Union,N,New York,NY,10003--950,"726 Broadway, Suite 110",http://www.nyufcu.com,"726 Broadway, Suite 110, New York, NY, 10003--950","('005700', 'Manhattan')",Greenwich Village / Financial District,5700
+32,Nonprofit Finance Fund,Loan Fund,N,New York,NY,10004--265,"5 Hanover Square, 9th FL",www.nff.org,"5 Hanover Square, 9th FL, New York, NY, 10004--265","('000900', 'Manhattan')",Greenwich Village / Financial District,900
+33,PDL Community Bancorp,Bank Holding Company,N,Bronx,NY,10462--501,2244 Westchester Avenue,www.poncebank.com,"2244 Westchester Avenue, Bronx, NY, 10462--501","('009200', 'Bronx')",Soundview / Parkchester,9200
+34,Ponce Bank,Bank or Thrift,N,Bronx,NY,10462--501,2244 Westchester Avenue,https://www.poncebank.com,"2244 Westchester Avenue, Bronx, NY, 10462--501","('009200', 'Bronx')",Soundview / Parkchester,9200
+35,Primary Care Development Corporation,Loan Fund,N,New York,NY,10006--300,45 Broadway  Suite 530,www.pcdc.org,"45 Broadway  Suite 530, New York, NY, 10006--300","('001300', 'Manhattan')",Greenwich Village / Financial District,1300
+36,Quontic Bank,Bank or Thrift,N,New York,NY,10020,"1 Rockefeller Plaza, 9th Floor",https://www.quonticbank.com/,"1 Rockefeller Plaza, 9th Floor, New York, NY, 10020","('009600', 'Manhattan')",Chelsea / Clinton / Midtown,9600
+37,Quontic Bank Holdings Corp,Bank Holding Company,N,New York,NY,10020,"1 Rockefeller Plaza, 9th Floor",http://www.quonticbank.com,"1 Rockefeller Plaza, 9th Floor, New York, NY, 10020","('009600', 'Manhattan')",Chelsea / Clinton / Midtown,9600
+38,Renaissance Economic Development Corporation,Loan Fund,N,New York,NY,10002--622,"2 Allen Street, 7th Floor",http://www.renaissance-ny.org/,"2 Allen Street, 7th Floor, New York, NY, 10002--622","('001800', 'Manhattan')",Lower East Side / Chinatown,1800
+39,Savoy Bank,Bank or Thrift,N,New York,NY,10020--232,"600 5th Avenue
+17th Floor",https://www.banksavoy.com/index.html,"600 5th Avenue
+17th Floor, New York, NY, 10020--232","('009600', 'Manhattan')",Chelsea / Clinton / Midtown,9600
+40,Spring Bank,Bank or Thrift,N,Bronx,NY,10452--820,69 East 167th St,www.springbankny.com,"69 East 167th St, Bronx, NY, 10452--820","('019700', 'Bronx')",Highbridge / S. Concourse,19700
+41,Sustainable Neighborhoods LLC,Loan Fund,N,New York,NY,10004--200,"55 Broad Street, 10th Floor",http://cnycn.org/,"55 Broad Street, 10th Floor, New York, NY, 10004--200","('000900', 'Manhattan')",Greenwich Village / Financial District,900
+42,"The Community Development Trust, Inc.",Loan Fund,N,New York,NY,10018--770,1350 Broadway  Suite 700,www.cdt.biz,"1350 Broadway  Suite 700, New York, NY, 10018--770","('010900', 'Manhattan')",Chelsea / Clinton / Midtown,10900
+43,"The Working World, Inc. dba Seed Commons",Loan Fund,N,New York,NY,10038,"116 Nassau Street, #513",Non given,"116 Nassau Street, #513, New York, NY, 10038","('001501', 'Manhattan')",Greenwich Village / Financial District,1501
+44,"TruFund Financial Services, Inc.",Loan Fund,N,New York,NY,10018--232,"39 West 37th Street, 7th Floor",http://www.trufund.org,"39 West 37th Street, 7th Floor, New York, NY, 10018--232","('008400', 'Manhattan')",Chelsea / Clinton / Midtown,8400
+45,Upper Manhattan Empowerment Zone,Loan Fund,N,New York,NY,10027--499,"55 West 125th Street, 11th Floor",http://www.umez.org,"55 West 125th Street, 11th Floor, New York, NY, 10027--499","('020000', 'Manhattan')",Central Harlem,20000
+46,Urban Upbound Federal Credit Union,Credit Union,N,Long Island City,NY,11101--610,13-03B 40th Avenue  Ground Floor,http://www.urbanupbound.org,"13-03B 40th Avenue  Ground Floor, Long Island City, NY, 11101--610","('002500', 'Queens')",Astoria,2500
+47,Vital Healthcare Capital,Loan Fund,N,New York,NY,10004--278,"85 Broad Street, 18th Floor",www.VitalCap.org,"85 Broad Street, 18th Floor, New York, NY, 10004--278","('000900', 'Manhattan')",Greenwich Village / Financial District,900
+48,"Women's Venture Fund, Inc.",Loan Fund,N,New York,NY,10004,"50 Broadway, 29 Fl",www.wvf-ny.org,"50 Broadway, 29 Fl, New York, NY, 10004","('000900', 'Manhattan')",Greenwich Village / Financial District,900
